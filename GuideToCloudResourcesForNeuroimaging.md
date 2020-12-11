@@ -4,6 +4,9 @@
 Farahany, Gregory Farber, Magali Haas, Sean Horgan, David Kennedy, Tara
 Madhyastha, and Russell Poldrack
 
+©2019. This work is licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. 
+
+
 ## Background
 
 **[Mission]{.ul}**: On September 24, 2019, the National Academies of
