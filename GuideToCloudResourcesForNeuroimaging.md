@@ -199,7 +199,7 @@ Box, Google Drive or iCloud, unless explicitly noted.
 </tr>
 <tr class="odd">
 <td>Existing data</td>
-<td>If the researcher use other datasets in the study, then they must understand the conditions for data reuse and sharing of derivative results (e.g., the Adolescent Brain Cognitive Development [ABCD] study has high restrictions on re-release options).</td>
+<td>If the researcher uses other datasets in the study, then they must understand the conditions for data reuse and sharing of derivative results (e.g., the Adolescent Brain Cognitive Development [ABCD] study has high restrictions on re-release options).</td>
 <td>Yes, No</td>
 </tr>
 <tr class="even">
