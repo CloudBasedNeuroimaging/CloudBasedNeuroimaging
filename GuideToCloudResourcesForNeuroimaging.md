@@ -115,7 +115,7 @@ compute resources also becomes easier as all parties are working off a
 common platform. Although Cloud resources can be expensive, with the
 commercial platforms, costs can be easily shared among parties depending
 on how they are set up. Nevertheless, the Cloud isn’t necessarily right
-for all applications and researchers and can lead to high monetary and
+for all applications and can lead to high monetary and
 technological costs if an investigator is not careful.
 
 We developed an evaluation matrix that summarizes major dimensions that
