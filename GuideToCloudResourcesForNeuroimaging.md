@@ -326,7 +326,7 @@ now, she may need to do so in the future.
     school in neuroimaging and data science
 
     -   See [<u>Neurohackademy: Cloud computing for
-        neuroimaging</u>](https://neurohackademy.org/course/cloud-computing-for-neuroimaging/)
+        neuroimaging</u>](https://neurohackademy.org/course/cloud-computing-for-neuroimaging-2/)
 
 -   [<u>CloudBank</u>](https://www.cloudbank.org/): A cloud access
     entity that will help the NSF-supported computer science community
