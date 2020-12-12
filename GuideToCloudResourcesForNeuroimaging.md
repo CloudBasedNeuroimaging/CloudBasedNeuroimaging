@@ -230,13 +230,13 @@ Box, Google Drive or iCloud, unless explicitly noted.
 </tbody>
 </table>
 
-## Use Case 
+## Use Case
 
 In the following section, we evaluate the user scenario against the
 matrix in Table 1. We provide definitions for each of the value sets and
 situate the user scenario within the matrix.
 
-### Researcher Skills 
+### Researcher Skills
 
 **<u>Description</u>**: What computational skills and data handling
 skills does the researcher have?
@@ -322,7 +322,7 @@ now, she may need to do so in the future.
     -   [<u>Current offerings relevant to the
         Cloud</u>](https://training.incf.org/search?filter=cloud).
 
--   [<u>NeuroHack Academy</u>](https://neurohackademy.org/): Summer
+-   [<u>NeuroHackademy</u>](https://neurohackademy.org/): Summer
     school in neuroimaging and data science
 
     -   See [<u>NeuroHack Academy/OHBM: Cloud resources for
@@ -380,7 +380,7 @@ now, she may need to do so in the future.
 |--------------------------------------------|
 | **<u>User story</u>**: Suggestions welcome |
 
-### Number of Institutions 
+### Number of Institutions
 
 <u>**Description**:</u> The more institutions involved, the greater the
 challenge for coordinating and ensuring consistency of control over the
@@ -506,7 +506,7 @@ different requirements.
 -   [ReproNim Statistics Module:](http://www.repronim.org/module-stats/)
     including power analysis to determine required study size
 
--   
+-
 
 **<u>Relevant Articles:</u>**
 
@@ -529,7 +529,7 @@ different requirements.
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **<u>User story</u>**: A real-time fMRI scanning project was carried out collaboratively between two major research universities, one with a medical center and the other without. This involved scanning at the institution with the medical center using protocols designed by the other, and with data delivered to a cloud based ‘engine’ for real-time analysis and feedback. In order to accomplish this, a variety of obstacles had to be hurdled. The respective institutional IRB’s had to understand and approve the protocol. Network connections had to be developed in accordance with privacy protections (which were warranted by both institutions as well as the cloud vendor). Technical experts from both institutions had to arrive at a common understanding of what was to be accomplished, who owned what aspects of the data, and ultimately deliver a reproducible prototype that allowed the work to begin. This process took roughly a year, much of which was occupied by efforts to coordinate the independent policy reviews carried out by the various units at each institution. |
 
-### Access to Computational Resources and Expertise 
+### Access to Computational Resources and Expertise
 
 **<u>Description</u>:** Access and degree of services provided by a
 computer science department and/or data science center at the
@@ -652,7 +652,7 @@ provides training in cloud based use of neuroimaging tools.
 |--------------------------------------------|
 | **<u>User story</u>**: Suggestions welcome |
 
-### Data Size 
+### Data Size
 
 **<u>Description:</u>** Number of participants, number of files per
 participant, and size of files; number of copies of files, and whether
@@ -739,7 +739,7 @@ data in a way that cannot be supported by the home institution.
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **<u>User Story</u>**: Cloud providers typically charge fees for moving data out of the cloud, between regions, and between certain types of storage classes (for example, moving data out of archival storage may incur a fee). It is important to know the fee structure for these operations to avoid unexpected bills. If you plan to remove your data from the cloud at the end of the project, it is a good idea to reserve money in the budget for that in advance. |
 
-### Data Complexity/Scope 
+### Data Complexity/Scope
 
 **<u>Description</u>**: Number of modalities and data types; dimensions
 of these data, e.g., different licenses, identifiability, and different
@@ -912,7 +912,7 @@ ensure sufficient resources.
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **<u>User story</u>**: An IT department took to heart the requirement that data should not be copied. This was implemented in software design and policies in a solution that assumed researchers would only access object storage. Unfortunately, object storage does not support POSIX file system operations that are used by most research software. Furthermore, it precluded copying data to local storage to process it using a compute cluster. It is critical to think about the entire research workflow and make sure that policies do not hinder natural data use. |
 
-###  
+###
 
 ### Privacy
 
@@ -1167,7 +1167,7 @@ A researcher developed a visualization tool for analyzing some controlled-access
 </tbody>
 </table>
 
-### 
+###
 
 ### Data Generation Sources
 
@@ -1640,6 +1640,18 @@ datasets.
         deployment. Outputs are stored according to the BIDS-Derivatives
         standard for ease of reuse.
 
+- Software for deployment of computations to the cloud:
+
+  -   [Cloudknot](https://nrdg.github.io/cloudknot/): a Python library designed
+      to run existing Python code in [AWS Batch](https://aws.amazon.com/batch/)
+
+  -   [Caliban](https://caliban.readthedocs.io/en/latest/) A tool for developing
+      research workflow and notebooks in an isolated Docker environment and
+      submitting those isolated environments to Google Compute Cloud.
+
+  - [Batchit](https://github.com/base2genomics/batchit): simple jobs submission
+    via command-line for AWS batch
+
 **<u>Relevant Articles:</u>**
 
 -   Cloud computing applications for biomedical science
@@ -1823,7 +1835,7 @@ That feature of the archive should be useful to a user like Jordan.
 |--------------------------------------------|
 | **<u>User story</u>**: Suggestions welcome |
 
-###  
+###
 
 ### IRB Experience with Neuroimaging and Cloud Data/Computing
 
