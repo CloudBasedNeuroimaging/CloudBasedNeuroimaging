@@ -325,7 +325,7 @@ now, she may need to do so in the future.
 -   [<u>NeuroHackademy</u>](https://neurohackademy.org/): Summer
     school in neuroimaging and data science
 
-    -   See [<u>NeuroHack Academy/OHBM: Cloud resources for
+    -   See [<u>Neurohackademy: Cloud computing for
         neuroimaging</u>](https://neurohackademy.org/course/cloud-computing-for-neuroimaging/)
 
 -   [<u>CloudBank</u>](https://www.cloudbank.org/): A cloud access
