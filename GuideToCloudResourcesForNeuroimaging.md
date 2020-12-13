@@ -598,11 +598,11 @@ provides training in cloud based use of neuroimaging tools.
 
 **<u>Resources and Tools</u>**:
 
--   [<u>NeuroHack Academy</u>](https://neurohackademy.org/): Summer
+-   [<u>Neurohackademy</u>](https://neurohackademy.org/): Summer
     school in neuroimaging and data science
 
-    -   See [<u>NeuroHack Academy/OHBM: Cloud resources for
-        neuroimaging</u>](https://neurohackademy.org/course/cloud-computing-for-neuroimaging/)
+    -   See [<u>Neurohackademy: Cloud resources for
+        neuroimaging</u>](https://neurohackademy.org/course/cloud-computing-for-neuroimaging-2/)
 
 -   [<u>CloudBank</u>](https://www.cloudbank.org/): A cloud access
     entity that will help the NSF-supported computer science community
