@@ -850,7 +850,7 @@ to share the data through NDA or another repository, but they want the
 data to be reusable by other platforms.
 
 **<u>Discussion of Use Case</u>**: Jordan will benefit from planning
-prospectively for the cost of sharing data data and providing multiple
+prospectively for the cost of sharing data and providing multiple
 copies both through the NDA and other repositories, and will need to
 ensure sufficient resources.
 
