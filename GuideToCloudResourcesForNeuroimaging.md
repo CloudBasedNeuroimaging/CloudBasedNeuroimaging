@@ -904,6 +904,9 @@ ensure sufficient resources.
     -   Institutional Repositories: Many institutions offer cloud-based
         storage for their constituents
 
+    - [<u>Datalad</u>](https://www.datalad.org/): Cutting-edge tool for data
+      versioning and provenance tracking, including in cloud storage.
+
 **<u>Relevant Articles</u>**:
 
 -   Suggestions welcome
