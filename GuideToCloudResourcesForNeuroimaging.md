@@ -1744,6 +1744,9 @@ that have any particular requirements.
 -   [<u>Open Neuro</u>](https://openneuro.org/): Open data repository
     for sharing MRI, MEG, EEG, iEEG, and ECoG data
 
+-   [<u>NextFlow</u>](https://www.nextflow.io/): A workflow management system that can be used to scale
+    compute workflows in cloud systems (see [this example](https://www.nextflow.io/blog/2017/scaling-with-aws-batch.html)).
+
 **<u>Relevant Articles:</u>**
 
 -   Suggestions welcome
