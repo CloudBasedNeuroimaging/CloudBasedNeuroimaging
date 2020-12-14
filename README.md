@@ -2,4 +2,4 @@ We are seeking feedback on a user's guide developed by a working group convened 
 
 Please feel free to leave your comments as issues, or to submit pull requests with suggested changes.
 
-In addition, please consider completing this [online feedback form](https://docs.google.com/forms/d/e/1FAIpQLScinAtJDAdMqST2hAjMZTD9uPjw-g6eaSzFCaZ71oWes43W6Q/viewform).  
+In addition, please consider completing this [online feedback form](https://docs.google.com/forms/d/e/1FAIpQLScinAtJDAdMqST2hAjMZTD9uPjw-g6eaSzFCaZ71oWes43W6Q/viewform).
