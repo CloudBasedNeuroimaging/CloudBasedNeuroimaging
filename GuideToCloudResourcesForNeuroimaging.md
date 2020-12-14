@@ -1021,10 +1021,6 @@ ways she wishes to share it using the platforms she wishes to use.
     information about a person be removed from Internet searches and
     other directories under some circumstances.)
 
--   [<u>Privacy Shield</u>](https://www.privacyshield.gov/welcome):
-    framework for regulating exchanges of personal data for commercial
-    purposes between countries
-
 -   [<u>ENIGMA Process for protecting
     privacy</u>](https://enigma.com/privacy-policy)
 
