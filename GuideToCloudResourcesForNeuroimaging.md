@@ -1012,7 +1012,8 @@ ways she wishes to share it using the platforms she wishes to use.
 -   [<u>Open Brain Consent</u>: portable consent forms specifically for
     sharing human neuroimaging data, developed by
     the](https://open-brain-consent.readthedocs.io/en/stable/) Open
-    Brain Consent Working Group. Preprint: https://psyarxiv.com/f6mnp/
+    Brain Consent Working Group (final paper:
+    https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25351)
 
 -   [<u>Ethical
     Wearables</u>](https://ethics.harvard.edu/ethical-wearables): White
@@ -1895,8 +1896,8 @@ environment.
 -   [<u>Open Brain Consent</u>: portable consent forms specifically for
     sharing human neuroimaging data, developed by
     the](https://open-brain-consent.readthedocs.io/en/stable/) Open
-    Brain Consent Working Group (preprint:
-    [<u>https://psyarxiv.com/f6mnp/</u>](https://psyarxiv.com/f6mnp/))
+    Brain Consent Working Group (final paper:
+    https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25351)
 
 **<u>Relevant Articles:</u>**
 
@@ -1962,8 +1963,8 @@ consent allows for broad data sharing.
 -   [<u>Open Brain Consent</u>: portable consent forms specifically for
     sharing human neuroimaging data, developed by
     the](https://open-brain-consent.readthedocs.io/en/stable/) Open
-    Brain Consent Working Group (preprint:
-    [<u>https://psyarxiv.com/f6mnp/</u>](https://psyarxiv.com/f6mnp/))
+    Brain Consent Working Group (final paper:
+    https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25351)
 
 **<u>Relevant Articles:</u>**
 
